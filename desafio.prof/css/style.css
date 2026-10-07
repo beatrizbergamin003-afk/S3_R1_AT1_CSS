@@ -1,0 +1,55 @@
+body {
+    font-family: Arial;
+    margin: 0;
+}
+
+/* ID do título principal */
+#titulo-principal {
+    color: blue;
+    text-align: center;
+}
+
+/* Classes dos títulos */
+.titulo {
+    color: darkblue;
+}
+
+/* Classe dos textos */
+.texto {
+    color: black;
+}
+
+/* Cabeçalho */
+.cabecalho {
+    background-color: lightgray;
+    padding: 20px;
+}
+
+/* Banner */
+.banner {
+    background-color: lightblue;
+    padding: 30px;
+}
+
+/* Cursos */
+.cursos {
+    padding: 30px;
+}
+
+/* Cursos */
+.curso {
+    color: green;
+}
+
+/* Contato */
+.contato {
+    background-color: #eeeeee;
+    padding: 30px;
+}
+
+/* Rodapé */
+.rodape {
+    background-color: darkblue;
+    padding: 20px;
+    text-align: center;
+}

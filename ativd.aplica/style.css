@@ -1,0 +1,18 @@
+body {
+    font-family: Arial;
+}
+
+/* Título principal */
+#titulo-principal {
+    color: blue;
+}
+
+/* Subtítulos */
+.titulo-secao {
+    color: green;
+}
+
+/* Parágrafos */
+.texto {
+    color: black;
+}
